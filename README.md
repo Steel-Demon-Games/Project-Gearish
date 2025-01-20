@@ -1,1 +1,2 @@
 # Project Gearish
+Gearish is a 2D fighting game made in [Godot](https://godotengine.org/) in 3D. Gearish is inspired by Guilty Gear -Strive- and it's goal is to have very unique characters, in both gameplay and appearance. It will give the player feedback clearly like in Strive, and some flair from older fighting games like Blazblue or older Guilty Gear games. Gearish shares it's world with [Project Heaven Sent](https://github.com/Steel-Demon-Games/Project-Heaven-Sent), the game which we are currently working on.
